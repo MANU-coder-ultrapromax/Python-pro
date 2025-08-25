@@ -1,4 +1,5 @@
-# BILL SPLITTER
+#PYTHON BEGINER PROJECTS #
+#BILL SPLITTER
 A beginner-friendly Python script that calculates how much each person should pay when splitting a bill. Includes optional tip handling and basic input validation.
 
 💡 Features
@@ -14,8 +15,7 @@ A beginner-friendly Python script that calculates how much each person should pa
 python bill_splitter.py
 
 
-
-# 🔄 UNIT CONVERTER
+ 🔄 UNIT CONVERTER
 
 A compact Python script that performs real-world unit conversions across **length**, **weight**, and **temperature** — using only basic control structures (`if`, `else`, `for`) and arithmetic operations. No functions, no libraries, just pure logic.
 
